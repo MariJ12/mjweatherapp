@@ -8,7 +8,8 @@ export default function App() {
       <div className="container">
         <Weather />
         <footer>
-          This project was coded by MariJ and is open-sourced on GitHub
+          This project was coded by MariJ and is open-sourced on{" "}
+          <a href="https://github.com/MariJ12/mjweatherapp">GitHub</a>
         </footer>
       </div>
     </div>
