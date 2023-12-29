@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="London" />
         <footer>
           This project was coded by MariJ and is open-sourced on{" "}
           <a href="https://github.com/MariJ12/mjweatherapp">GitHub</a>
