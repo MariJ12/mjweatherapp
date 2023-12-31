@@ -52,6 +52,9 @@
   font-size: 60px;
   font-weight: 400;
 }
+.Weather canvas {
+  margin: 10px auto;
+}
 .Weather .unit {
   color: var(--third-color);
   font-size: 16px;
